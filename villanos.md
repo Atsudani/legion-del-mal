@@ -5,3 +5,4 @@
 4- Pijaman
 5- Macbooooook
 6- Atsushi tiene que ir aca!!...
+7- cambios desde linux
